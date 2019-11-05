@@ -1,0 +1,17 @@
+# Exercise (medium)
+# # Given this list: [825, 262, 627, 826, 285, 221, 730, 340, 750, 989, 272, 842, 383, 575, 810]
+# # Use the python built in list methods to print:
+# #
+# # The number of elements in the list
+# # The minimum element in the list
+# # The maximum element in the list
+# # The sum of all the numbers in the list
+
+user_list = [825, 262, 627, 826, 285, 221, 730, 340, 750, 989, 272, 842, 383, 575, 810]
+
+print(len(user_list))
+print(max(user_list))
+print(min(user_list))
+print(sum(user_list))
+
+
